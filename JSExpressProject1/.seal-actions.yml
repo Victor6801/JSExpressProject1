@@ -1,0 +1,19 @@
+meta:
+  schema-version: 0.1.0
+  created-on: "2025-07-02T09:01:42Z"
+  cli-version: 0.2.0
+projects:
+  95540B5917C1D491499C41FC59C2DC0DAA0D7D1D:
+    targets:
+      - package.json
+    manager:
+      ecosystem: node
+      name: npm
+      version: "9"
+    overrides:
+      path-to-regexp:
+        0.1.7:
+          use: 0.1.7-sp1
+      qs:
+        6.5.2:
+          use: 6.5.2-sp1
