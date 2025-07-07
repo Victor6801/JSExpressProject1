@@ -1,5 +1,5 @@
 dependabot:
   url: https://github.com
   token: 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
-  owner: test
+  owner: v6801-npm-test
   repo: JSExpressProject1
